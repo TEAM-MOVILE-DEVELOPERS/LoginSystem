@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UMadeFodds">
         <activity
+            android:name=".splash.SplashActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
