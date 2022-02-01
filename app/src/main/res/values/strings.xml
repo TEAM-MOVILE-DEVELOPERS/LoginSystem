@@ -8,4 +8,6 @@
     <string name="image_register">imagen del registro</string>
     <string name="register_button">Registrar</string>
     <string name="sign_out">Cerrar sesión</string>
+    <string name="adress_editText">adress</string>
+    <string name="adress">Direccion</string>
 </resources>
