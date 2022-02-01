@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">U Made Fodds</string>
     <string name="logo_splash">Logo_splash</string>
+    <string name="complete_name">Nombre completo</string>
+    <string name="new_email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="password_repeat">Repetir contraseña</string>
+    <string name="image_register">imagen del registro</string>
+    <string name="register_button">Registrar</string>
+    <string name="sign_out">Cerrar sesión</string>
 </resources>
